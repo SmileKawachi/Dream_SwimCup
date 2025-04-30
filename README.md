@@ -105,11 +105,11 @@ p.note { display: none; }
 -->
 
 <!--流れ文字の挿入例-->
-<h1><span class="blue"><marquee behavior="left">!!! 2026/02/**　第二回　水夢杯開催!!!</marquee></span></h1>
+<h1><span class="gray"><marquee behavior="left">!!! 2026/02/**　第二回　水夢杯開催!!!</marquee></span></h1>
 
 <!--ここから下が、本体部分-->
     
-<h2><span class="snow">第二回　水夢杯　募集要項</span></h2>
+<h2><span class="white">第二回　水夢杯　募集要項</span></h2>
 <a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="900" /></a>   
 
 <br><br><br><br><br><br><br><br><br>
