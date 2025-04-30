@@ -1,26 +1,19 @@
 # 水夢杯ホームページ
-  
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
 <head>
-
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <!--ここから上はお決まりの定型文です-->
 
-
 <!--ここからが表現の書式などを決めるcssという部分-->
-
 <style type="text/css">
 p {
 color: #fffafa;
 font-size: 1.5em;
 }
-
 
 .red {color:#ff0000;}
 .grey {color:#ffffff; background:#999999;}
@@ -32,7 +25,6 @@ font-size: 1.5em;
 line-height: 200%;
 padding: 10px;}
 
-
 main {
 background-color: rgba(255, 255, 255, 0.5);
 }
@@ -40,7 +32,6 @@ background-color: rgba(255, 255, 255, 0.5);
 section {
 background-color: rgba(0, 225, 0, 0.3);
 }
-
 
 /* 点滅 */
 .blinking{
@@ -62,7 +53,6 @@ animation:blink 1.5s ease-in-out infinite alternate;
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
-
 /*背景を表示させる部分*/
 body::before {
 content:"";
@@ -93,22 +83,15 @@ display: block;
 width: 800px;
 }
 
-
 @media screen and (min-width: 540px),
 screen and (orientation: landscape) {
 p.note { display: none; }
 }
 
 </style>
-
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
-
 </head>
-
 <body>
-
-
-
 <p class="note">
 モバイル端末をお使いの場合は、画面を横向きにすると
 より見やすくご覧頂けます。
@@ -116,25 +99,18 @@ p.note { display: none; }
 
 <!--ここ上は、ほぼそのまま使います！-->
 
-
 <!--QRコードの挿入例-->
 <!--
 <p align="left"> <img src="QR_2025Apr18.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 -->
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/04/20、HPの作成例!!!</marquee></span></h1>
-
-
+<h1><span class="blue"><marquee behavior="left">!!! 2026/02/**　第二回　水夢杯開催!!!</marquee></span></h1>
 
 <!--ここから下が、本体部分-->
-
     
-<h2><span class="yellow">この文字は挿入例</span></h2>
-<a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="900" /></a>
-
-
-    
+<h2><span class="snow">第二回　水夢杯　募集要項</span></h2>
+<a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="900" /></a>   
 
 <br><br><br><br><br><br><br><br><br>
 
