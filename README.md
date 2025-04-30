@@ -112,7 +112,7 @@ p.note { display: none; }
 <h2><span class="white">第二回　水夢杯　募集要項</span></h2>
 <a href="2次要項.pdf" target="_blank">募集要項</a><br>
 <a href="2025年_第1回水夢杯ランキング.pdf" target="_blank">第一回大会ランキング</a><br>
-<a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="900" /></a>   
+<a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="600" /></a>   
 
 <br><br><br><br><br><br><br><br><br>
 
