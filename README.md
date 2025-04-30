@@ -110,8 +110,10 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
     
 <h2><span class="white">第二回　水夢杯　募集要項</span></h2>
+<a href="2次要項.pdf" target="_blank">2次要項</a>
+
 <a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="900" /></a>   
- <a href="2次要項.pdf" target="_blank">PDFを表示する</a>
+
 <br><br><br><br><br><br><br><br><br>
 
    
