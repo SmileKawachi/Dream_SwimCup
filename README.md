@@ -116,9 +116,6 @@ p.note { display: none; }
 
 <br><br><br><br><br><br><br><br><br>
 
-   
-
-
 
 
 
