@@ -114,7 +114,7 @@ p.note { display: none; }
 <a href="2025年_第1回水夢杯ランキング.pdf" target="_blank">第一回大会ランキング</a><br></h2>
 <div class="section">
       <p><span class="yellow">記入した申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
-    　<a href="mailto:laevatein2007@yahoo.co.jp?cc=RY_@t.vodafone.ne.jp&amp;subject=連絡&amp;body=クラブ参加願いです。">メール送信</a>
+    　<h2><a href="mailto:laevatein2007@yahoo.co.jp?cc=RY_@t.vodafone.ne.jp&amp;subject=連絡&amp;body=クラブ参加願いです。">メール送信</a></h2>
     
     </div>
 
