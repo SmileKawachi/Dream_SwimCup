@@ -84,7 +84,7 @@ width: 800px;
 }
 
 a {
-  color: grey;
+  color: red;
   text-decoration: none;
 }
     
