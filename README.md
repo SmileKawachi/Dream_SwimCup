@@ -112,6 +112,15 @@ p.note { display: none; }
 <h2><span class="white">第二回　水夢杯　募集要項</span></h2>
 <h2><a href="2次要項.pdf" target="_blank">募集要項</a><br>
 <a href="2025年_第1回水夢杯ランキング.pdf" target="_blank">第一回大会ランキング</a><br></h2>
+<div class="section">
+      <p><span class="yellow">記入した申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
+    　<a href="mailto:laevatein2007@yahoo.co.jp?cc=RY_@t.vodafone.ne.jp&amp;subject=連絡&amp;body=クラブ参加願いです。">メール送信</a>
+    
+    </div>
+
+
+
+
 <a href="gazou.JPG" target="_blank"><img src="gazou.JPG" alt="サンプル画像" width="600" /></a>   
 
 <br><br><br><br><br><br><br><br><br>
