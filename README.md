@@ -83,6 +83,11 @@ display: block;
 width: 800px;
 }
 
+a {
+  color: skyblue;
+  text-decoration: none;
+}
+    
 @media screen and (min-width: 540px),
 screen and (orientation: landscape) {
 p.note { display: none; }
