@@ -84,7 +84,7 @@ width: 800px;
 }
 
 a {
-  color: skyblue;
+  color: grey;
   text-decoration: none;
 }
     
