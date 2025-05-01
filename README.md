@@ -115,6 +115,8 @@ p.note { display: none; }
 <div class="section">
     <p><span class="yellow">以下にPDF,Excel形式の申し込み用紙を用意してあります。</p>
     <p>印刷用紙に記入する方はする方はPDFを、PC等から電子データにて送付の方はExcelをご使用ください</span></p>
+    <p><a href="仮申し込み用紙.pdf" target="_blank">【PDF】申込用紙</a>
+    <p><a href="仮申し込み用紙.xlsx" target="_blank">【Excel】申込用紙</a><br>    
     <p>申し込みは以下メールボタンまたは、SmileKawachi＠gmail.com へ送付願います</span></p>
     <h2><a href="mailto:smilekawachi@gmail.com?cc=laevatein2007@yahoo.co.jp&amp;subject=連絡&amp;body=クラブ参加願いです。">メール送信</a></h2>
     
